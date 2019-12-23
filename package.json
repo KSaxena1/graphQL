@@ -1,0 +1,32 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "graphQL demo app implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KSaxena1/graphQL.git"
+  },
+  "keywords": [
+    "graphQL",
+    "axios",
+    "react"
+  ],
+  "author": "sk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KSaxena1/graphQL/issues"
+  },
+  "homepage": "https://github.com/KSaxena1/graphQL#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.9.0",
+    "graphql": "^14.5.8",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.2"
+  }
+}
