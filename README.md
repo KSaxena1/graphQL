@@ -5,3 +5,7 @@ sudo npm intall -g json-server
 
 run the json server from within the directory where db.json exist
 json-server --watch db.json --port 8900
+
+GraphiQL will be available at the following command. 
+npm start 
+http://localhost:4800/graphql
